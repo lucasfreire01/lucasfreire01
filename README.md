@@ -1,6 +1,5 @@
 ## HELLO_WORD 👋
 
-- 🔨 I’m currently working on programing PLC
 - 💻 I’m currently studying Machine Learning
 
 <div align="center">
