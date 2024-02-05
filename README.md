@@ -1,6 +1,6 @@
 ## HELLO_WORD 👋
 
-- 💻 I’m currently studying Machine Learning
+- 💻 I’m currently studying Machine Learning and Deep Learning
 
 <div align="center">
   <a href="https://github.com/lucasfreire01">
